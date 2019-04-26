@@ -17,40 +17,35 @@ SCHEDULED: <2019-05-02 Thu 8:55>
 ** Kerid crater
 SCHEDULED: <2019-05-02 Thu 10:00>
 - =64.041729 -20.886319=
-[[file:crater.jpg]]
-[[file:crater_map.png]]
+[[file:images/crater.png]]
+
 ** Stokkur geyzer
 SCHEDULED: <2019-05-02 Thu 13:00>
-- =64.3127 -20.3006=
-[[file:strokkur.jpg]]
-[[file:stokkur_map.png]]
+- =64.maps/3127 -20.3006=
+[[file:images/strokkur.png]]
 ** Gullfoss Falls
 SCHEDULED: <2019-05-02 Thu 15:00>
 - =64.3272 -20.1213=
-[[file:falls.jpg]]
-[[file:falls_map.png]]
+[[file:images/falls.png]]
 ** Finish at Hella                                                   :bloat:
 SCHEDULED: <2019-05-02 Thu 18:00>
 - =63.8336 -20.4021=
-[[file:hella_map.png]]
+[[file:images/hella_map.png]]
 * [2019-05-03 Fri] Day 2 Friday
 ** Skogafoss Waterfall
 SCHEDULED: <2019-05-03 Fri 11:00>
 - =63.5309 -19.5111=
-[[file:skogafoss.jpg]]
-[[file:skogafoss_map.png]] 
+[[file:images/skogafoss.png]]
 ** Dyrhólaey beach and cliffs
 SCHEDULED: <2019-05-03 Fri 13:00>
 - =63.4037 -19.1123=
-[[file:dyrholaey.jpg]]
-[[file:hex.jpg]]
-[[file:dyrholaey_map.png]]
+[[file:images/dyrholaey.png]]
+[[file:images/hex.png]]
 ** Fjaðrárgljúfur canyon
 SCHEDULED: <2019-05-03 Fri 16:00>
 - =63.7726 -18.173721=
 - drive towards Kirkjubæjarklaustur
-[[file:canyon.jpg]]
-[[file:canyon_maps.png]]
+[[file:images/canyon.png]]
 ** Finish at Kirkjubæjarklaustur                                     :bloat:
 SCHEDULED: <2019-05-03 Fri 19:00>
 - =63.7883 -18.0566=
@@ -59,48 +54,41 @@ SCHEDULED: <2019-05-03 Fri 19:00>
 ** Skaftafell / Vatnajökull National Park
 SCHEDULED: <2019-05-04 Sat 10:00>
 - =64.017 -16.968=
-[[file:park.jpg]]
-[[file:park_map.png]]
+[[file:images/park.png]]
 - waterfall 64.0276 -16.9746
-[[file:park1.jpg]]
+[[file:images/park1.png]]
 ** Iceberg lagoon
 SCHEDULED: <2019-05-04 Sat 15:00>
 - =64.0489 -16.1837=
-[[file:iceberg.jpg]]
-[[file:iceberg_map.png]]
+[[file:images/iceberg.png]]
 ** Finish after long drive                                      :bloat:
 SCHEDULED: <2019-05-04 Sat 21:00>
 - =65.6384 -16.9036=
-[[file:reykjah.jpg]]
-[[file:reykjah_map.png]]
+[[file:images/reykjah.png]]
 * [2019-05-05 Sun] Day 4 Sunday
 ** Godafoss Waterfall
 SCHEDULED: <2019-05-05 Sun 11:00>
 - =65.6833 -17.5501=
-[[file:godafoss.jpg]]
-[[file:godafoss_map.png]]
+[[file:images/godafoss.png]]
 ** Hverir Geyzer
 SCHEDULED: <2019-05-12 Sun 13:00>
 - =65.6414 -16.8077=
-[[file:hverir.jpg]]
-[[file:hverir_map.png]]
+[[file:images/hverir.png]]
 ** Nature baths
 SCHEDULED: <2019-05-05 Sun 16:00>
 - =65.6304 -16.8482=
-[[file:baths.jpg]]
-[[file:baths_map.png]]
+[[file:images/baths.png]]
 ** Finish at Akureyri                                                :bloat:
 SCHEDULED: <2019-05-05 Sun 21:00>
 - =65.6755 -18.0939=
-[[file:akureyri.jpg]]
-[[file:akureyri_map.png]]
+[[file:images/akureyri.png]]
 * [2019-05-06 Mon] Day 5 Monday
 ** Free time
 - We can think of volcano visit
 ** Finish at Reykjavik                                               :bloat:
 SCHEDULED: <2019-05-06 Mon 21:00>
 - =64.1466 -21.8768=
- [[file:reykjavik_map.png]]
+[[file:images/reykjavik_map.png]]
 * [2019-05-07 Tue] Flight back (Tuesday)
 SCHEDULED: <2019-05-07 Tue 08:45>
 - Drop off car by 08:00
